@@ -1,0 +1,8 @@
+bd	Count	Precision	Recall	F
+qOR4a	2	1.0	1.0	1.0
+qOR3	4	1.0	1.0	1.0
+OR-C	16	1.0	1.0	1.0
+qOR1(E1)	70	1.0	0.97	0.98
+qOR1(E2)	30	0.9375	1.0	0.968
+qOR2	15	1.0	1.0	1.0
+Accuracy	0.99
